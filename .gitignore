@@ -1,3 +1,7 @@
 # Jupyter Notebook
 neural-networks-deep-learning/python-numpy-basics/.ipynb_checkpoints
 neural-networks-deep-learning/planar-data-classification-with-a-hidden-layer/.ipynb_checkpoints
+neural-networks-deep-learning/logistic-regression-with-a-neural-network-mindset/.ipynb_checkpoints
+
+# Datasets
+neural-networks-deep-learning/logistic-regression-with-a-neural-network-mindset/datasets/*.h5
