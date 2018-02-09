@@ -7,9 +7,14 @@ improving-deep-neural-networks/tensorflow-tutorial/.ipynb_checkpoints
 improving-deep-neural-networks/gradient-checking/.ipynb_checkpoints
 improving-deep-neural-networks/initialization/.ipynb_checkpoints
 improving-deep-neural-networks/optimization-methods/.ipynb_checkpoints
+improving-deep-neural-networks/regularization/.ipynb_checkpoints
+
 
 # Datasets
 neural-networks-deep-learning/logistic-regression-with-a-neural-network-mindset/datasets/*.h5
 neural-networks-deep-learning/deep-neural-network-application/datasets/*.h5
 improving-deep-neural-networks/tensorflow-tutorial/datasets/*.h5
 improving-deep-neural-networks/optimization-methods/datasets/data.mat
+improving-deep-neural-networks/regularization/datasets/data.mat
+improving-deep-neural-networks/regularization/datasets/*.h5
+
