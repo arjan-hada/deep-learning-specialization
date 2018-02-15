@@ -11,6 +11,7 @@ improving-deep-neural-networks/optimization-methods/.ipynb_checkpoints
 improving-deep-neural-networks/regularization/.ipynb_checkpoints
 
 convolutional-neural-networks/keras-tutorial/.ipynb_checkpoints
+convolutional-neural-networks/cnn-basics/.ipynb_checkpoints
 
 
 # Datasets
@@ -23,4 +24,4 @@ improving-deep-neural-networks/regularization/datasets/data.mat
 improving-deep-neural-networks/regularization/datasets/*.h5
 
 convolutional-neural-networks/keras-tutorial/datasets/*.h5
-
+convolutional-neural-networks/cnn-basics/datasets/*.h5
