@@ -12,6 +12,7 @@ improving-deep-neural-networks/regularization/.ipynb_checkpoints
 
 convolutional-neural-networks/keras-tutorial/.ipynb_checkpoints
 convolutional-neural-networks/cnn-basics/.ipynb_checkpoints
+convolutional-neural-networks/residual-network/.ipynb_checkpoints
 
 
 # Datasets
@@ -25,3 +26,5 @@ improving-deep-neural-networks/regularization/datasets/*.h5
 
 convolutional-neural-networks/keras-tutorial/datasets/*.h5
 convolutional-neural-networks/cnn-basics/datasets/*.h5
+convolutional-neural-networks/residual-network/datasets/*.h5
+convolutional-neural-networks/residual-network/*.h5
