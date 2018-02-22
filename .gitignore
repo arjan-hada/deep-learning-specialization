@@ -15,7 +15,7 @@ convolutional-neural-networks/cnn-basics/.ipynb_checkpoints
 convolutional-neural-networks/residual-network/.ipynb_checkpoints
 convolutional-neural-networks/face-recognition/.ipynb_checkpoints
 convolutional-neural-networks/art-generation-neural-style-transfer/.ipynb_checkpoints
-
+convolutional-neural-networks/car-detection-yolo/.ipynb_checkpoints
 
 
 # Datasets
@@ -33,6 +33,7 @@ convolutional-neural-networks/residual-network/datasets/*.h5
 convolutional-neural-networks/residual-network/*.h5
 convolutional-neural-networks/face-recognition/datasets/*.h5
 convolutional-neural-networks/face-recognition/*.h5
+convolutional-neural-networks/car-detection-yolo/model_data/*.h5
 
 convolutional-neural-networks/art-generation-neural-style-transfer/pretrained-model/*.mat
 
