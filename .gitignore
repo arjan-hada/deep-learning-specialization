@@ -37,3 +37,4 @@ convolutional-neural-networks/car-detection-yolo/model_data/*.h5
 
 convolutional-neural-networks/art-generation-neural-style-transfer/pretrained-model/*.mat
 
+convolutional-neural-networks/car-detection-yolo/nb_images/*.mp4
